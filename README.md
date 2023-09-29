@@ -1,6 +1,6 @@
 # firstapp
 
-A new Flutter project.
+Um simples projeto feito com um template de teste para entender como a criação de projetos Flutter funciona.
 
 ## Getting Started
 
